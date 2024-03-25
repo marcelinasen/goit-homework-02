@@ -8,14 +8,14 @@ Run two tests with cypress using user email and password.
 # Test 1:
 
 - open file cypress in VScode
-- open file e2e>homework-02>Test-01.cy.js
+- open file e2e>homework-02>Tests-1-2.cy.js
 - open terminal and type npx cypress open
 - start E2E Testing in Chrome browser
 
 # Test 2:
 
 - open file cypress in VScode
-- open file e2e>homework-02>Test-02.cy.js
+- open file e2e>homework-02>Tests-1-2.cy.js
 - open terminal and type npx cypress open
 - start E2E Testing in Chrome browser
 
